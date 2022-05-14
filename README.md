@@ -1,2 +1,3 @@
-[![](https://raw.githubusercontent.com/yutakiyama/yutakiyama/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/yutakiyama)
-[![](https://raw.githubusercontent.com/yutakiyama/yutakiyama/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/yutakiyama)[![](https://raw.githubusercontent.com/yutakiyama/yutakiyama/master/profile-summary-card-output/nord_bright/4-productive-time.svg)](https://github.com/yutakiyama)
+![](https://raw.githubusercontent.com/yutakiyama/yutakiyama/master/profile-summary-card-output/solarized/0-profile-details.svg)
+![](https://raw.githubusercontent.com/yutakiyama/yutakiyama/master/profile-summary-card-output/solarized/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/yutakiyama/yutakiyama/master/profile-summary-card-output/solarized/4-productive-time.svg)
