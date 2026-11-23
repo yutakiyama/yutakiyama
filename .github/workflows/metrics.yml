@@ -22,7 +22,6 @@ jobs:
           filename: github-metrics.svg
           base: header, activity, repositories, metadata
           config_timezone: Asia/Tokyo
-          debug: yes
           repositories_batch: 25
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
